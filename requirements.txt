@@ -1,0 +1,8 @@
+mlflow
+scikit-learn
+imbalanced-learn
+bayesian-optimization
+joblib
+streamlit
+dagshub
+scikit-optimize
